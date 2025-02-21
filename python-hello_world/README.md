@@ -1,1 +1,1 @@
-MY PYTHON
+Python for beginners
